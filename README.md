@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=3rd+Year+CSE+Student+%40+NSUT;Web+Dev+%7C+AI+Enthusiast;Always+learning+new+things+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=500&lines=4th+Year+CSE+Student+%40+NSUT;Web+Dev+%7C+AI+Enthusiast;Always+learning+new+things+🚀">
 </p>
 
 ---
@@ -12,7 +12,7 @@
 ## 🌟 About Me  
 
 - 🎓 Pursuing **B.Tech CSE (2022-26)** from NSUT, New Delhi  
-- 💡 Passionate about **AI, NLP, and Full-Stack Development**  
+- 💡 Passionate about **DSA, full-stack web development,AI**  
 - 🛠️ Skilled in **C++, Python, MERN, Tailwind CSS, MongoDB**  
 - 🌱 Currently exploring **Machine Learning & Scalable Social Impact Solutions**  
 - 🚀 Love to build **real-world projects** & collaborate on open-source  
@@ -45,27 +45,6 @@
 | [🔐 Google Auth](https://github.com/SafiyaAnsari/google_auth) | JS | Google OAuth authentication |
 | [🌐 CSRL Alumni Landing Page](https://github.com/SafiyaAnsari/landing_page_csrl_alum) | TypeScript | Responsive alumni landing page |
 | [🖼️ Image Text Translator](https://github.com/SafiyaAnsari/Image_Text_Translator) | React + OCR | OCR + multilingual translation with overlays |
-
----
-
-## 📈 GitHub Stats & Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SafiyaAnsari&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SafiyaAnsari&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafiyaAnsari&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 🏆 Achievements & Badges  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SafiyaAnsari&theme=tokyonight&row=1&no-frame=true&margin-w=15" />
-</p>
 
 ---
 
